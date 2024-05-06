@@ -9,3 +9,5 @@ This SuperCollider instrument will pop two windows on script launch. The larger 
 3) delay input on/off
 4) delay output on/off
 5) scope color changer on/off
+
+For a more detailed introduction to the script, please see the [video tutorial](https://youtu.be/t9NdnhrOp-8).
